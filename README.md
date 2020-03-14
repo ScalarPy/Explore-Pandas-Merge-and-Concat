@@ -9,7 +9,7 @@ Link for the tutorial: https://youtu.be/--j6EBYVIh0
 Merge: 
 Merge() function is used to join two dataframes based on a specific and criterion or logics 
 
-!https://github.com/ScalarPy/Explore-Pandas-Merge-and-Concat/blob/master/how.png
+!(https://github.com/ScalarPy/Explore-Pandas-Merge-and-Concat/blob/master/how.png)
 
 
 Concat:
